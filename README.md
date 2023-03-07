@@ -11,7 +11,8 @@ w, corresponding intristic frequencies
 c, coupling parameter [0 ,1]
 t, time vector
 
-![Primary screenshot](https://raw.githubusercontent.com/tommivayrynen1/scroll_channels/master/scroll_channels.png)
+![Primary screenshot](https://raw.githubusercontent.com/tommivayrynen1/Kuramoto_model/master/Kuramotoexample.png
+)
 
 
 Inspired by:
