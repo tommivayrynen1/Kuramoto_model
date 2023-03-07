@@ -11,6 +11,7 @@ w, corresponding intristic frequencies
 c, coupling parameter [0 ,1]
 t, time vector
 
+![Primary screenshot](https://raw.githubusercontent.com/tommivayrynen1/scroll_channels/master/scroll_channels.png)
 
 
 Inspired by:
