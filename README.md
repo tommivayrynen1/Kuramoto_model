@@ -1,5 +1,5 @@
 # Kuramoto_model
-Model coupled oscillators using Kuramoto model. Useful functions to setup, plot and extract Kuramoto model parameters.  
+Model coupled oscillators using Kuramoto model. Useful functions to setup, plot and extract Kuramoto model parameters. Available for both MATLAB and Python (In progress)  
 
 Example:  
 [t,theta,complexform,order] = setup_kuramoto(5,rand(1,5)',.3,[0:.1:500]')  
